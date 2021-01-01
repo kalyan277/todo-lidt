@@ -13,6 +13,8 @@ Node js is to be installed in the system.
 INSTALLATION
 ------------
 Download this Project.
+ 
  =>Run npm install
+ 
  =>Run npm start
  
